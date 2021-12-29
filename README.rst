@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Souce User Guide/Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a user guide/manual to help with the onboarding process for Souce, a pre-accounting software solution.
